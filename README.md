@@ -12,7 +12,7 @@
 <center>
 Welcome to my <a href= "https://deepdevmaster.tech/">portfolio website</a>! This platform showcases my journey and achievements as a developer. It includes more about my background, skills, and experiences that have shaped my career. The website is designed to reflect my commitment to continuous learning and my passion for coding.
 
-Feel free to explore my work, connect with me on social media, or reach out via the contact form. Your feedback and collaboration opportunities are always welcome! Thank you for visiting my portfolio.
+Feel free to explore my work, connect with me on social media, or reach out via the contact form on my website. Your feedback and collaboration opportunities are always welcome! Thank you for visiting my portfolio.
 <a href= "https://deepdevmaster.tech/">![Screenshot 2024-06-13 193227](https://github.com/deepcodess/portfolio/assets/76248764/b914ff17-ab42-4767-8838-f67de1873de6)</a>
 </center>
 ⭐ Star me on GitHub — it helps!
